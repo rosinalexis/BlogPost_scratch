@@ -1,0 +1,16 @@
+{
+    "name": "rosin/shop_scrtach",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rosinalexis",
+            "email": "rosinalexis@yahoo.fr"
+        }
+    ],
+    "require": {}
+}
